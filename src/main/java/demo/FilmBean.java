@@ -31,7 +31,7 @@ public class FilmBean implements Serializable {
 
     public void fetchCurrentRow(ActionEvent event) {
         String id=(FacesContext.getCurrentInstance().
-                getExternalContext().getRequestParameterMap().get("title"));
+                getExternalContext().getRequestParameterMap().get("id"));
         currentRow = Integer.parseInt(FacesContext.getCurrentInstance().
                 getExternalContext().getRequestParameterMap().get("row"));
         for (Film item : allFilms) {

@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled8_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="untitled8/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled8" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="antlr-2.7.6" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.36" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        </element>
+      </element>
+      <element id="directory" name="images">
+        <element id="directory" name="icons">
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/arrow.png" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/copy.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/create_doc.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/create_folder.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/cut.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/delete.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/edit.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/filter.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/find.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/ico_new_group.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/ico_new_item.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/open.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/paste.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/redo.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/reload.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/repeat.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/save.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/save_all.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/save_as.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/undo.gif" />
+          <element id="file-copy" path="$PROJECT_DIR$/images/icons/verify.gif" />
+        </element>
+        <element id="directory" name="modal">
+          <element id="file-copy" path="$PROJECT_DIR$/images/modal/close.png" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
